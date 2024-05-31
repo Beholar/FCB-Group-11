@@ -24,6 +24,7 @@ The following power bi features were incorporated
 - Navigating button
 - Formatting
 - Slicer
+- Cards
 
 ## Dax Funtion:
 ~~~
