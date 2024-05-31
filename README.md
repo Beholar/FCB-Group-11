@@ -49,6 +49,9 @@ Fruit profile Analysis
 Sales Analysis
 ![](https://github.com/Abutujj/FCB-Group-11/blob/main/Backpage.png)
 
+HouseHold Consumption
+![](https://github.com/Abutujj/FCB-Group-11/blob/main/Household.png)
+
 
 
 
