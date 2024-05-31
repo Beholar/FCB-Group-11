@@ -1,4 +1,5 @@
 # Fruit Market Analysis
+![](https://github.com/Abutujj/FCB-Group-11/blob/main/Cover%20page.png)
 
 
 ## Introduction
@@ -40,6 +41,15 @@ The Report consist of three pages
 - Sales
 - Household Consumption
 - Duplicate of Sales
+
+## Analysis:
+Fruit profile Analysis
+![](https://github.com/Abutujj/FCB-Group-11/blob/main/Home%20page.png)
+
+Sales Analysis
+![](https://github.com/Abutujj/FCB-Group-11/blob/main/Backpage.png)
+
+
 
 
 
